@@ -41,7 +41,7 @@ var S = {
       if (i !== -1) {
         S.UI.simulate(decodeURI(action).substring(i + 3));
       } else {
-        S.UI.simulate('||祝|王嘉幸|生日快乐|祝你|生日快乐|祝你幸福|祝你健康|祝你|生日快乐！');
+        S.UI.simulate('||祝|王嘉幸|生日快乐|祝你|事事如意|心想事成|鹏程万里|祝你|生日快乐！');
       }
 
       /* S.Drawing.loop(function () {
